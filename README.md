@@ -1,3 +1,8 @@
+#Description
+
+This project was made following the react quick-start tutorial: [Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
+
+![React Logo](https://uploads-ssl.webflow.com/62038ffc9cd2db4558e3c7b7/623b38335c7b880db9eff54d_react.svg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
